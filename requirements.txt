@@ -5,4 +5,5 @@ ipykernel
 openpyxl
 matplotlib
 scipy
+scikit-learn
 # -openpyxle .pip install -r requirements.txt
