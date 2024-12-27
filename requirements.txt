@@ -3,5 +3,6 @@ numpy
 seaborn
 ipykernel
 openpyxl
-
-# -openpyxle .
+matplotlib
+scipy
+# -openpyxle .pip install -r requirements.txt
